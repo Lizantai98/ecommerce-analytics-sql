@@ -37,4 +37,4 @@ Used existing PostgreSQL data warehouse with:
 - Professional documentation
 
 ## About Me
-Hi there! I am a Product Designer transitioning into Data Analytics, building SQL & PostgreSQL projects that turn data into business insights.
+Hi there! I'm Elizabeth Antai, a Product Designer transitioning into Data Analytics, building SQL & PostgreSQL projects that turn data into business insights.
