@@ -35,3 +35,6 @@ Used existing PostgreSQL data warehouse with:
 - Business intelligence thinking
 - Data exploration methodology
 - Professional documentation
+
+## About Me
+I am a Product Designer transitioning into Data Analytics, building SQL & PostgreSQL projects that turn data into business insights.
